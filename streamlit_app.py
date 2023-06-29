@@ -1,4 +1,4 @@
-]import streamlit
+import streamlit
 
 streamlit.title('Hello World!');
 
